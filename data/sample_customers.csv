@@ -1,0 +1,13 @@
+source_record_id,source_system,name,email,phone,address,updated_at,email_verified
+crm-001,crm,Asha Kumar,asha.kumar@example.test,+1 (415) 555-0101,12 Lake Road Apt 2,2026-10-01T09:00:00Z,false
+web-014,web,Asha Kumar,ASHA.KUMAR@example.test,4155550101,12 Lake Road Apt 2,2026-10-02T10:30:00Z,true
+crm-002,crm,Rahul Shah,rahul.shah@example.test,+1-415-555-0102,9 Hill Street,2026-10-03T08:15:00Z,true
+web-015,web,Rahul Sha,rahul.alt@example.test,4155550192,9 Hill Street,2026-10-04T08:15:00Z,false
+crm-003,crm,Maya Patel,maya.patel@example.test,+1-415-555-0103,77 Pine Avenue,2026-10-02T12:00:00Z,true
+crm-004,crm,Noah Reed,noah.reed@example.test,+1-415-555-0104,,2026-10-02T12:00:00Z,false
+crm-005,crm,Isha Singh,,+1-415-555-0105,4 Market Street,2026-10-02T12:00:00Z,false
+crm-006,crm,Omar Diaz,omar.diaz@example.test,+1-415-555-0106,1 Garden Walk,not-a-date,false
+crm-007,crm,,broken@example.test,+1-415-555-0107,3 Park Lane,2026-10-02T12:00:00Z,false
+crm-008,crm,Nina Rao,nina.rao@example.test,+1-415-555-0108,5 Cedar Court,2026-10-01T12:00:00Z,false
+crm-009,crm,Ethan Kim,ethan.kim@example.test,+1-415-555-0109,8 River Road,2026-10-01T12:00:00Z,false
+

@@ -1,0 +1,10 @@
+entity_id,source_record_ids,source_count,name,name_survivor_source_id,email,email_survivor_source_id,phone,phone_survivor_source_id,address,address_survivor_source_id,updated_at
+cus_bed419caa5707492,crm-001|web-014,2,Asha Kumar,web-014,ASHA.KUMAR@example.test,web-014,4155550101,web-014,12 Lake Road Apt 2,web-014,2026-10-02T10:30:00Z
+cus_27f4d152822d546a,crm-002,1,Rahul Shah,crm-002,rahul.shah@example.test,crm-002,+1-415-555-0102,crm-002,9 Hill Street,crm-002,2026-10-03T08:15:00Z
+cus_73ca96337d7a04b5,web-015,1,Rahul Sha,web-015,rahul.alt@example.test,web-015,4155550192,web-015,9 Hill Street,web-015,2026-10-04T08:15:00Z
+cus_7b46fded33a4e9ec,crm-003,1,Maya Patel,crm-003,maya.patel@example.test,crm-003,+1-415-555-0103,crm-003,77 Pine Avenue,crm-003,2026-10-02T12:00:00Z
+cus_e1b7b9dc14c0af47,crm-004,1,Noah Reed,crm-004,noah.reed@example.test,crm-004,+1-415-555-0104,crm-004,,,2026-10-02T12:00:00Z
+cus_b18811175601df93,crm-005,1,Isha Singh,crm-005,,,+1-415-555-0105,crm-005,4 Market Street,crm-005,2026-10-02T12:00:00Z
+cus_5d0b01a464f63304,crm-008,1,Nina Rao,crm-008,nina.rao@example.test,crm-008,+1-415-555-0108,crm-008,5 Cedar Court,crm-008,2026-10-01T12:00:00Z
+cus_e3e66b5a78b1aac3,crm-009,1,Ethan Kim,crm-009,ethan.kim@example.test,crm-009,+1-415-555-0109,crm-009,8 River Road,crm-009,2026-10-01T12:00:00Z
+

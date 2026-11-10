@@ -1,0 +1,3 @@
+record_id_a,record_id_b,match_score,match_reason,review_status
+crm-002,web-015,0.7147,similar_name;;same_address;same_email_domain,pending
+

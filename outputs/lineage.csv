@@ -1,0 +1,11 @@
+entity_id,source_record_id,source_system,source_file,source_line,run_id
+cus_bed419caa5707492,crm-001,crm,sample_customers.csv,2,0cd42fed-5697-4dab-99ab-20c2578441da
+cus_bed419caa5707492,web-014,web,sample_customers.csv,3,0cd42fed-5697-4dab-99ab-20c2578441da
+cus_27f4d152822d546a,crm-002,crm,sample_customers.csv,4,0cd42fed-5697-4dab-99ab-20c2578441da
+cus_73ca96337d7a04b5,web-015,web,sample_customers.csv,5,0cd42fed-5697-4dab-99ab-20c2578441da
+cus_7b46fded33a4e9ec,crm-003,crm,sample_customers.csv,6,0cd42fed-5697-4dab-99ab-20c2578441da
+cus_e1b7b9dc14c0af47,crm-004,crm,sample_customers.csv,7,0cd42fed-5697-4dab-99ab-20c2578441da
+cus_b18811175601df93,crm-005,crm,sample_customers.csv,8,0cd42fed-5697-4dab-99ab-20c2578441da
+cus_5d0b01a464f63304,crm-008,crm,sample_customers.csv,11,0cd42fed-5697-4dab-99ab-20c2578441da
+cus_e3e66b5a78b1aac3,crm-009,crm,sample_customers.csv,12,0cd42fed-5697-4dab-99ab-20c2578441da
+

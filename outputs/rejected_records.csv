@@ -1,0 +1,4 @@
+source_record_id,source_system,name,email,phone,address,updated_at,email_verified,source_file,source_line,reject_reason
+crm-006,crm,Omar Diaz,omar.diaz@example.test,+1-415-555-0106,1 Garden Walk,not-a-date,False,sample_customers.csv,9,invalid_updated_at
+crm-007,crm,,broken@example.test,+1-415-555-0107,3 Park Lane,2026-10-02T12:00:00Z,False,sample_customers.csv,10,missing_required_name
+

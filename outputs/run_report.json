@@ -1,0 +1,16 @@
+{
+  "run_id": "0cd42fed-5697-4dab-99ab-20c2578441da",
+  "status": "success",
+  "started_at": "2026-11-10T05:20:06.648215Z",
+  "input_file": "sample_customers.csv",
+  "input_sha256": "cd1c8bd12063c7ff995299fd40b2634c1562772550867b9322860038842252fd",
+  "input_rows": 11,
+  "valid_rows": 9,
+  "merged_records": 8,
+  "exact_duplicate_groups": 1,
+  "probable_pairs_for_review": 1,
+  "rejected_rows": 2,
+  "elapsed_seconds": 0.005796,
+  "schema_version": "1.0"
+}
+

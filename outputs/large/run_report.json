@@ -1,0 +1,16 @@
+{
+  "run_id": "4e38cd20-ba9f-4945-8720-b82929a74823",
+  "status": "success",
+  "started_at": "2026-11-10T05:13:33.111193Z",
+  "input_file": "customers_100k.csv",
+  "input_sha256": "4a8deab2311125b0140b6f56eb406cc75d41c7d8ddf1515a1cb64e27d9ea0e4e",
+  "input_rows": 100000,
+  "valid_rows": 99998,
+  "merged_records": 87998,
+  "exact_duplicate_groups": 12000,
+  "probable_pairs_for_review": 0,
+  "rejected_rows": 2,
+  "elapsed_seconds": 41.172859,
+  "schema_version": "1.0"
+}
+
